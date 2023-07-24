@@ -4,7 +4,7 @@ The Project analyses Funding Received by Start-ups in India from years 2018 - 20
 ## Summary
 | Code          |     Name                       | Published Article|    PowerBi Dashboard
 | ------------- | -------------                  | -------------    |    -----------------
-| LP1           | India Startup Funding Analysis |  [Article](https://azubiafrica-my.sharepoint.com/:w:/g/personal/cynthia_mutisya_azubiafrica_org/EayyPwLaw81ItoUyxm6XieMBgxTSi1qso3OQJy2OZ9fqlQ?e=adkUXN)               |[PowerBI](https://app.powerbi.com/groups/add4ee54-5304-42a1-8eb0-9fd8f5731b35/reports/9b934110-f78c-4192-af6c-262eaa2e979d?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
+| LP1           | India Startup Funding Analysis |  [Article](https://medium.com/@aaronayitey/decoding-start-up-funding-insights-and-strategies-for-launching-a-business-in-india-e35cf9c86d29)               |[PowerBI](https://app.powerbi.com/groups/add4ee54-5304-42a1-8eb0-9fd8f5731b35/reports/9b934110-f78c-4192-af6c-262eaa2e979d?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)
 
 ## Project Description
 This data analysis project focuses on the funding received by start-ups in India from 2018 to 2021. The objective is to gain insights into the Indian start-up ecosystem and propose the best course of action for our team's venture. By analyzing the data on funding amounts, start-up details, and investor information, we aim to unearth prevailing patterns and gain insights about the opportunities in India's start-up ecosystem to inform decision-making.
